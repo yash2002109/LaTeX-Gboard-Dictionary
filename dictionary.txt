@@ -867,6 +867,7 @@ _j	ⱼ
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
 \urblacktriangle	◥	
+\QED	∎	
 _plus	₊	
 ^plus	⁺	
 _minus	₋	
